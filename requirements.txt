@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scikit-learn
+xgboost
+tensorflow
+imblearn
+joblib
+streamlit
+pyngrok
